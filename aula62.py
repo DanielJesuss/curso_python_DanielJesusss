@@ -24,7 +24,7 @@ contrário disso:
 
 O segundo dígito do CPF é 0
 """
-cpf_enviado_usuario = '74682489070'
+cpf_enviado_usuario = '51131330862'
 nove_digitos = cpf_enviado_usuario[:9]
 contador_regressivo_1 = 10
 
